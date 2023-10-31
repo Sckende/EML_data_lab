@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="08d6a751-573a-4795-a5be-91ea497d9458" system="uuid" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+  <dataset>
+    <title>Species occurrences</title>
+    <creator>
+      <ndividualName>
+        <givenName>Claire-Cécile</givenName>
+        <surName>Juhasz</surName>
+      </ndividualName>
+    </creator>
+    <contact>
+      <ndividualName>
+        <givenName>Claire-Cécile</givenName>
+        <surName>Juhasz</surName>
+      </ndividualName>
+    </contact>
+  </dataset>
+</eml:eml>
